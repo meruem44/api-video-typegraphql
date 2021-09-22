@@ -24,4 +24,10 @@ listagem de videos (Mutation e uma Query).
 
 ## Algumas imagens do código:
 
+- Server da aplicação
+![code](https://user-images.githubusercontent.com/48477073/134399175-0f6c39fe-81e7-4562-b196-2a2038cdcee8.png)
+
+- Implementação do resolver e da query
+![code2](https://user-images.githubusercontent.com/48477073/134399251-186e4307-f43c-4281-bbf6-182a92b6ebd7.png)
+
 ## Att: Paulo Leandro de Sousa :)
